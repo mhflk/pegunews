@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <GlobalStyles /> 
     <FontStyles />
-    <BrowserRouter basename="/news-explorer-frontend/">
+    <BrowserRouter basename="pegunews">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
