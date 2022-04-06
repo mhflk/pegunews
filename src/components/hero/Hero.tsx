@@ -46,7 +46,7 @@ export default function Hero({
     <Section>
       <Content>
         <TextWrapper $focused={searched}>
-          <Title>What's going on in the world?</Title>
+          <Title><strong>What's going on in the world?</strong></Title>
           <Subtitle>
             Find the latest news on any topic and save them in your personal account.
           </Subtitle>

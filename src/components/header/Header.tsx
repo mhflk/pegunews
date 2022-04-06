@@ -39,7 +39,7 @@ export default function Header({ loggedIn, setShowSignIn, handleLogout }: Props)
         <Container $isOpen={isOpen}>
           <Wrapper $isOpen={isOpen}>
             <Logo $isOpen={isOpen} to="/">
-              NewsExplorer
+              PeGu News
             </Logo>
             <MenuToggle onClick={() => setIsOpen(!isOpen)} $isOpen={isOpen} />
           </Wrapper>

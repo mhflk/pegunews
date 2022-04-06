@@ -1,5 +1,5 @@
 import React from 'react';
-import author from '../../images/author.jpg';
+import author from '../../images/thulina2.jpg';
 import { Section, Image, TextContent, Title, Paragraph } from './styledAbout';
 export default function About() {
   return (
@@ -8,13 +8,13 @@ export default function About() {
       <TextContent>
         <Title>About the author</Title>
         <Paragraph>
-          Hey there, I'm Jake. I am a full stack developer with experience building websites and web
+          Hey there, I'm Thulina Perera. I am a full stack developer with experience building websites and web
           applications.
         </Paragraph>
         <Paragraph>
-          I've spent the past six years working around the United States in a variety of Industries.
-          From wilderness therapy to mountain hospitality I've worn many hats. I've always been
-          drawn to roles that connect humans to themselves and others.
+        I'm interested in the whole front end stack Like trying new things and building great projects. I'm an independent freelancer and a footballer.
+
+I believe everything is an Art when you put your consciousness in it.
         </Paragraph>
         {/* <Paragraph>
           These days my time is spent learning how to build and deploy beautiful websites. I've long

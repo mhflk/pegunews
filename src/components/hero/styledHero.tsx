@@ -1,5 +1,5 @@
 import styled from 'styled-components/macro';
-import hero from '../../images/hero.png';
+import hero from '../../images/back2.gif';
 
 type FocusedProp = {
   $focused: boolean

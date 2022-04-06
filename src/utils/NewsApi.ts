@@ -12,19 +12,7 @@ class NewsApi {
     this._apiKey = 'e96e734cb0194eafae7a5c80c5eab1ca';
     this._maxAge = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
     this._blacklist = [
-      'sputniknews.com',
-      'theamericanconservative.com',
-      'freerepublic.com',
-      'breitbart.com',
-      'independent.co.uk',
-      'nationalreview.com',
-      'washingtontimes.com',
-      'rt.com',
-      'westernjournal.com',
-      'slashdot.org',
-      'thegatewaypundit.com',
-      'pjmedia.com',
-      'mirror.co.uk',
+      
     ];
   }
 
