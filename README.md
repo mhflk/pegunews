@@ -1,6 +1,6 @@
-<h1 align="center" ><a href="https://mccambley.github.io/news-explorer-frontend/">View this project live!</a>🎉</h1>
+<h1 align="center" ><a href="https://mhflk.github.io/pegunews">View this project live!</a>🎉</h1>
 
-<h2 align="center">This repository contains the frontend code for <a href="https://mccambley.github.io/news-explorer-frontend/">NewsExplorer</a>, the final project in the Practicum by Yandex curriculum.<br>Check out a demonstration of this project <a target="_blank" href="https://youtu.be/q7IdngTegY8">here</a>.</h2>
+<h2 align="center">This repository contains the frontend code for <a href="https://github.com/mhflk/pegunews">PeGu news</a>, the final project in the Practicum by Yandex curriculum.<br>Check out a demonstration of this project <a target="_blank" href="https://youtu.be/q7IdngTegY8">here</a>.</h2>
 
 ## 📣 Overview
 
@@ -16,28 +16,16 @@
 - **Google Cloud** hosts the backend
 - **News API** provides the news
 
-## ✨ Screenshots - [Live Demo](https://youtu.be/q7IdngTegY8)
+##  [Live Demo](https://pegunews.netlify.app/)
 
-### Search
 
-![Demonstration](./src/images/demo.gif)
-
-### Register
-
-![Demonstration](./src/images/demo-register.png)
-
-### Saved Articles
-
-![Demonstration](./src/images/demo-saved.png)
-
----
 
 ## 🧑‍💻 Get Started
 
 **Clone**
 
 ```
-$ git clone https://github.com/McCambley/news-explorer-frontend.git
+$ git clone https://github.com/mhflk/pegunews.git
 ```
 
 **Install**
@@ -57,7 +45,7 @@ $ npm run start
 
 ## 🔗 Important Links
 
-- ### [Frontend Deployment](https://mccambley.github.io/news-explorer-frontend/)
+- ### [Frontend Deployment](https://mhflk.github.io/pegunews)
 - ### [Backend API](https://api.mccambley-news.students.nomoreparties.sbs/)
 - ### [Backend Repository](https://github.com/McCambley/news-explorer-api)
 
