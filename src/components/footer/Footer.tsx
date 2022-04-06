@@ -15,7 +15,7 @@ export default function Footer(): JSX.Element {
     <Section>
       <Copyright onClick={handleCopyClick}>&#169; 2022 Thulina(PeGu), Powered by News API </Copyright>
       <Nav>
-        <TextLink area="H" href="/">
+        <TextLink area="H" href="https://mhflk.github.io/pegunews/">
           Home
         </TextLink>
         <TextLink area="P" href="https://thulina2004.netlify.app/" rel="noopener" target="_blank">
